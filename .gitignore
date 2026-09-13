@@ -1,0 +1,37 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor and temporary files
+*~
+*.swp
+*.swo
+*.tmp
+
+# Working directories
+work/
+scratch/
+mnt/
+
+# Western Digital firmware packages
+*.wdg
+
+# Extracted proprietary firmware trees and files
+firmware/
+extracted/
+rootfs/
+rootfs.ext2
+rootfs.ext3
+rootfs.ext3.gz
+
+# Known WD firmware binaries
+heat-monitor.original
+heat-monitor.patched
+stage1.bin
+u-boot.bin
+uImage
+uImage.1
+uUpgradeRootfs
+
+# Generated patch-test outputs
+heat-monitor.generated

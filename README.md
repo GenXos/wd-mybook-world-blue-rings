@@ -261,6 +261,11 @@ The limitation remains under investigation.
     |   |-- patch-heat-monitor.sh
     |   `-- README.md
     |
+    |-- tools/
+    |   `-- firmware-server/
+    |       |-- list.asp
+    |       `-- README.md
+    |
     |-- .gitignore
     |-- LICENSE
     `-- README.md

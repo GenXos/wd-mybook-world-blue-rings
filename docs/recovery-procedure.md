@@ -204,6 +204,16 @@ The local server supplied:
     list.asp
     wdgxnc-02.00.18.wdg
 
+The exact `list.asp` used during this recovery is included in this
+repository at:
+
+    tools/firmware-server/list.asp
+
+Instructions for reproducing the local firmware server are provided
+in:
+
+    tools/firmware-server/README.md
+
 The NAS successfully requested:
 
     GET /list.asp?type=wdg2nc&fw=01.01.18

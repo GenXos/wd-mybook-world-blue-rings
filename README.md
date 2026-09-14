@@ -47,7 +47,7 @@ The recovery was performed on:
     Model: WD10000D033 / WDG2NC10000
     Original capacity: 1 TB
     Original drives: 2 x 500 GB
-    Firmware: 02.00.18
+    Firmware: 1.01.18 --> 02.00.18
 
 This repository should not be assumed to apply to later My Book World
 generations merely because they have similar product names.
